@@ -2,8 +2,8 @@
 A simple game where the goal is to help the turtle to cross the street and avoid getting hit by cars
 
 # Dependencies
-Python 3
-Turtle Module
+1. Python 3
+2. Turtle Module
 
 # Game instructions
 Use the arrow up key to move the turtle to the other side of the street without getting hit by a car. Be careful as the cars will be moving faster, each time you level up.
